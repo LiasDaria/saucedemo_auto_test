@@ -10,7 +10,7 @@
 - Page Object Model
 - Docker
 
-##открываем терминал в PyCharm в контексте .venv
+#открываем терминал в PyCharm в контексте .venv
  pip install --upgrade pip
 pip install -r requirements.txt
 python -m playwright install
